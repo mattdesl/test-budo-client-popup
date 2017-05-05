@@ -1,0 +1,29 @@
+{
+  "name": "test-budo-client-popup",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "dev.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "budo": "^10.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node dev.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/test-budo-client-popup.git"
+  },
+  "homepage": "https://github.com/mattdesl/test-budo-client-popup",
+  "bugs": {
+    "url": "https://github.com/mattdesl/test-budo-client-popup/issues"
+  }
+}
